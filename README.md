@@ -6,8 +6,10 @@ Minmalist custom kernel for OnePlus 13R (ColorOS 17.0.0.105 INDIA) Other regions
 
 **Features**: BBRv3, TTL, BBG, TMPFS, cake & fq_pie net sched, and Wild Optimizations for battery & performance.
 
-These builds are personal, but feel free to give suggestions for future builds.
+These builds are personal, but feel free to give suggestions for future builds. Addition of features is not guaranteed.
 
 Thank you to **Wild Kernels** for providing fixes & patches!!!
+
+Flashing is recommended to be done in custom recovery, however KernelFlasher (fork) by FatalCoder524 can also be used.
 
 Enjoy❤️
